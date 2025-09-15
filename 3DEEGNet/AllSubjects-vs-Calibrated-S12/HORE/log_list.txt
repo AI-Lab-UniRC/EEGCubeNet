@@ -1,0 +1,63 @@
+
+----Classification of All----
+
+Fold-Wise Results:
+Fold 1: accuracy: 90.06, precision: 90.20, recall: 90.06, f1: 90.06, kappa: 0.80
+Fold 2: accuracy: 79.17, precision: 82.97, recall: 79.17, f1: 78.55, kappa: 0.58
+Fold 3: accuracy: 91.67, precision: 91.67, recall: 91.67, f1: 91.67, kappa: 0.83
+Fold 4: accuracy: 91.67, precision: 91.73, recall: 91.67, f1: 91.66, kappa: 0.83
+Fold 5: accuracy: 89.42, precision: 89.62, recall: 89.42, f1: 89.41, kappa: 0.79
+Fold 6: accuracy: 90.38, precision: 90.49, recall: 90.38, f1: 90.38, kappa: 0.81
+Fold 7: accuracy: 90.71, precision: 91.19, recall: 90.71, f1: 90.68, kappa: 0.81
+Fold 8: accuracy: 89.74, precision: 89.85, recall: 89.74, f1: 89.74, kappa: 0.79
+Fold 9: accuracy: 90.71, precision: 90.91, recall: 90.71, f1: 90.69, kappa: 0.81
+Fold 10: accuracy: 82.05, precision: 85.72, recall: 82.05, f1: 81.58, kappa: 0.64
+
+Average Metrics:
+accuracy: 88.56 ± 4.08
+precision: 89.43 ± 2.70
+recall: 88.56 ± 4.08
+f1: 88.44 ± 4.30
+kappa: 0.77 ± 0.08
+
+----Classification of All----
+
+Fold-Wise Results:
+Fold 1: accuracy: 90.06, precision: 90.20, recall: 90.06, f1: 90.06, kappa: 0.80
+Fold 2: accuracy: 79.17, precision: 82.97, recall: 79.17, f1: 78.55, kappa: 0.58
+Fold 3: accuracy: 91.67, precision: 91.67, recall: 91.67, f1: 91.67, kappa: 0.83
+Fold 4: accuracy: 91.67, precision: 91.73, recall: 91.67, f1: 91.66, kappa: 0.83
+Fold 5: accuracy: 89.42, precision: 89.62, recall: 89.42, f1: 89.41, kappa: 0.79
+Fold 6: accuracy: 90.38, precision: 90.49, recall: 90.38, f1: 90.38, kappa: 0.81
+Fold 7: accuracy: 90.71, precision: 91.19, recall: 90.71, f1: 90.68, kappa: 0.81
+Fold 8: accuracy: 89.74, precision: 89.85, recall: 89.74, f1: 89.74, kappa: 0.79
+Fold 9: accuracy: 90.71, precision: 90.91, recall: 90.71, f1: 90.69, kappa: 0.81
+Fold 10: accuracy: 82.05, precision: 85.72, recall: 82.05, f1: 81.58, kappa: 0.64
+
+Average Metrics:
+accuracy: 88.56 ± 4.08
+precision: 89.43 ± 2.70
+recall: 88.56 ± 4.08
+f1: 88.44 ± 4.30
+kappa: 0.77 ± 0.08
+
+----Classification of All----
+
+Fold-Wise Results:
+Fold 1: accuracy: 90.06, precision: 90.20, recall: 90.06, f1: 90.06, kappa: 0.80
+Fold 2: accuracy: 79.17, precision: 82.97, recall: 79.17, f1: 78.55, kappa: 0.58
+Fold 3: accuracy: 91.67, precision: 91.67, recall: 91.67, f1: 91.67, kappa: 0.83
+Fold 4: accuracy: 91.67, precision: 91.73, recall: 91.67, f1: 91.66, kappa: 0.83
+Fold 5: accuracy: 89.42, precision: 89.62, recall: 89.42, f1: 89.41, kappa: 0.79
+Fold 6: accuracy: 90.38, precision: 90.49, recall: 90.38, f1: 90.38, kappa: 0.81
+Fold 7: accuracy: 90.71, precision: 91.19, recall: 90.71, f1: 90.68, kappa: 0.81
+Fold 8: accuracy: 89.74, precision: 89.85, recall: 89.74, f1: 89.74, kappa: 0.79
+Fold 9: accuracy: 90.71, precision: 90.91, recall: 90.71, f1: 90.69, kappa: 0.81
+Fold 10: accuracy: 82.05, precision: 85.72, recall: 82.05, f1: 81.58, kappa: 0.64
+
+Average Metrics:
+accuracy: 88.56 ± 4.08
+precision: 89.43 ± 2.70
+recall: 88.56 ± 4.08
+f1: 88.44 ± 4.30
+kappa: 0.77 ± 0.08
