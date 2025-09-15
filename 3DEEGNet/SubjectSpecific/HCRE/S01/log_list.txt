@@ -1,0 +1,21 @@
+
+----Classification of All----
+
+Fold-Wise Results:
+Fold 1: accuracy: 100.00, precision: 100.00, recall: 100.00, f1: 100.00, kappa: 1.00
+Fold 2: accuracy: 100.00, precision: 100.00, recall: 100.00, f1: 100.00, kappa: 1.00
+Fold 3: accuracy: 91.67, precision: 92.86, recall: 91.67, f1: 91.61, kappa: 0.83
+Fold 4: accuracy: 50.00, precision: 25.00, recall: 50.00, f1: 33.33, kappa: 0.00
+Fold 5: accuracy: 100.00, precision: 100.00, recall: 100.00, f1: 100.00, kappa: 1.00
+Fold 6: accuracy: 91.67, precision: 92.86, recall: 91.67, f1: 91.61, kappa: 0.83
+Fold 7: accuracy: 50.00, precision: 25.00, recall: 50.00, f1: 33.33, kappa: 0.00
+Fold 8: accuracy: 100.00, precision: 100.00, recall: 100.00, f1: 100.00, kappa: 1.00
+Fold 9: accuracy: 100.00, precision: 100.00, recall: 100.00, f1: 100.00, kappa: 1.00
+Fold 10: accuracy: 100.00, precision: 100.00, recall: 100.00, f1: 100.00, kappa: 1.00
+
+Average Metrics:
+accuracy: 88.33 ± 19.44
+precision: 83.57 ± 29.42
+recall: 88.33 ± 19.44
+f1: 84.99 ± 26.03
+kappa: 0.77 ± 0.39
