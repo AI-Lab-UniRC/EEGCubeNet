@@ -1,8 +1,9 @@
 ## Processing EEG Volumetric Data
 - EEG Lab is recommended to process the .mat files
 - Read the dataset from ![Data](https://github.com/AI-Lab-UniRC/EEGCubeNet/tree/main/Data) folder.
+  
 The flowchart of EEG volumetric data processing is folloiwng:
-!(https://github.com/AI-Lab-UniRC/EEGCubeNet/blob/main/EEG%20Video%20PreProcessing/eegvideoprocessing.PNG)
+(https://github.com/AI-Lab-UniRC/EEGCubeNet/blob/main/EEG%20Video%20PreProcessing/eegvideoprocessing.PNG)
 
 It starts from EEG acquisition, pre-processing and dataset creation. The diagram illustrates the data acquisition
 paradigm. EEG segments of 1 second preceding the onset of motion referred to as pre-motion EEG segments are extracted, labeled (as HC, HO, or RE), and stored in a dataset. These EEG signals undergo spatial filtering using the Laplacian method, followed by time-frequency analysis via the Continuous Wavelet Transform (CWT). The resulting time-frequency representations are structured into volumes organized by channel, frequency, and time. These volumes are then labeled accordingly and stored for further analysis.
