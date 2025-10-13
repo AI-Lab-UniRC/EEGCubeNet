@@ -114,9 +114,10 @@ Addiotionally, pleae acknowledge the original source of the raw dataset:
 
 
 ## Citing
+[An explainable 3D-Deep Learning Model for EEG Decoding in Brain Computer Interface Applications](https://www.worldscientific.com/doi/10.1142/S012906572550073X)
 ```
-Suffian, Muhammad et al., "Explainable 3D-Deep Learning Model for EEG Decoding in Brain Computer Interface Applications."
-International Journal of Neural Systems X.X (2025): XYZ. 
+Muhammad Suffian et al., "Explainable 3D-Deep Learning Model for EEG Decoding in Brain Computer Interface Applications."
+International Journal of Neural Systems, doi:10.1142/S012906572550073X (2025). 
 ```
 
 Bibtex
