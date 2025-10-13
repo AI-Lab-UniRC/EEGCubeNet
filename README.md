@@ -105,15 +105,13 @@ pip install -r /path/to/requirements.txt
 > The experiments were implemented using PyTorch an open-source deep learning framework, running on a workstation equipped with Ubuntu.
 > Model training was performed on an NVIDIA RTX 4000 Ada Generation installed on a processor of Intel Xeon(R) CPU @2.30GHz and RAM of 125 GB.
 
-## acknowledgments
+## Acknowledgments
 If you use this repository, its code, or the processed data in your reseaerch or publications, please acknowledge the following:
-```
-The processed EEG data and related code have been shared with permission from the authors of [An explainable 3D-Deep Learning Model for EEG Decoding in Brain Computer Interface Applications](https://www.worldscientific.com/doi/10.1142/S012906572550073X), who kindly allowed their processed data and code to use for educational purposes. 
-```
+"The processed EEG data and related code have been shared with permission from the authors of [An explainable 3D-Deep Learning Model for EEG Decoding in Brain Computer Interface Applications](https://www.worldscientific.com/doi/10.1142/S012906572550073X), who kindly allowed their processed data and code to use for educational purposes."
+
 Addiotionally, pleae acknowledge the original source of the raw dataset:
-```
-25. Upper limb movement decoding from EEG (001-2017), available at the BNCI Horizon 2020 database(https://bnci-horizon-2020.eu/database/data-sets).
-```
+"25. Upper limb movement decoding from EEG (001-2017)", available at the BNCI Horizon 2020 database(https://bnci-horizon-2020.eu/database/data-sets).
+
 
 ## Citing
 ```
