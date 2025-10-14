@@ -7,6 +7,7 @@ It presents the technical details with source code for open science for the unde
 - State-of-the-art performances were achieved with no need of solving the inverse problem to reconstruct EEG cortical sources, which is computationally expensive and requires a head model.
 - The proposed model #EEGCubeNet was extensively validated to leverage the knowledge acquired during training on multiple subjects (global training) to the adaptation to the unseen final subject (subject-wise fine-tuning). 
 - The proposed approach enabled the achievement of state-of-the-art performance on individual subjects while significantly reducing the training time.
+
 The following is the complete pipeline for EEG data processing.
 ![Pipeline](https://github.com/AI-Lab-UniRC/EEGCubeNet/blob/main/EEGCubeNet_pipeline.PNG)
 
