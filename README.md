@@ -1,5 +1,5 @@
-This repository contains the source code and data used in [XYZ Paper], accepted for publishing in [International Journal of Neural Systems](https://www.worldscientific.com/worldscinet/ijns?srsltid=AfmBOoonImUsPjx0i9bH8102pIJpjb6tnnCIwOlrvlum3LwmQt_ipqXb)."
-It presents the technical details with source code to reproduce the state of the art results for the underlying problem in BCI.  
+This repository contains the source code and data used in the paper [An explainable 3D-Deep Learning Model for EEG Decoding in Brain Computer Interface Applications](https://www.worldscientific.com/doi/10.1142/S012906572550073X), published in [International Journal of Neural Systems](https://www.worldscientific.com/worldscinet/ijns?srsltid=AfmBOoonImUsPjx0i9bH8102pIJpjb6tnnCIwOlrvlum3LwmQt_ipqXb)."
+It presents the technical details with source code for open science for the underlying problem in BCI.  
 
 ## Introduction
 - EEGCubeNet along with 3D xAI-OSA is an interpretable classification system for video EEG related to Motor Imagery in BCI.
@@ -105,10 +105,19 @@ pip install -r /path/to/requirements.txt
 > The experiments were implemented using PyTorch an open-source deep learning framework, running on a workstation equipped with Ubuntu.
 > Model training was performed on an NVIDIA RTX 4000 Ada Generation installed on a processor of Intel Xeon(R) CPU @2.30GHz and RAM of 125 GB.
 
+## Acknowledgments
+If you use this repository, its code, or the processed data in your reseaerch or publications, please acknowledge the following:
+"The processed EEG data and related code have been shared with permission from the authors of [An explainable 3D-Deep Learning Model for EEG Decoding in Brain Computer Interface Applications](https://www.worldscientific.com/doi/10.1142/S012906572550073X), who kindly allowed their processed data and code to use for educational purposes."
+
+Addiotionally, pleae acknowledge the original source of the raw dataset:
+"25. Upper limb movement decoding from EEG (001-2017)", available at the BNCI Horizon 2020 database(https://bnci-horizon-2020.eu/database/data-sets).
+
+
 ## Citing
+[An explainable 3D-Deep Learning Model for EEG Decoding in Brain Computer Interface Applications](https://www.worldscientific.com/doi/10.1142/S012906572550073X)
 ```
-Suffian, Muhammad et al., "Explainable 3D-Deep Learning Model for EEG Decoding in Brain Computer Interface Applications."
-International Journal of Neural Systems X.X (2025): XYZ. 
+Muhammad Suffian et al., "Explainable 3D-Deep Learning Model for EEG Decoding in Brain Computer Interface Applications."
+International Journal of Neural Systems, doi:10.1142/S012906572550073X (2025). 
 ```
 
 Bibtex
